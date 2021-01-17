@@ -1,0 +1,87 @@
+C:\Users\user\Desktop\marketpanelim\marketpanelim\bin\Debug\marketpanelim.exe.config
+C:\Users\user\Desktop\marketpanelim\marketpanelim\bin\Debug\marketpanelim.exe
+C:\Users\user\Desktop\marketpanelim\marketpanelim\bin\Debug\marketpanelim.pdb
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csprojAssemblyReference.cache
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Form1.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Form2.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Properties.Resources.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csproj.GenerateResource.cache
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.exe
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.pdb
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.adresler.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personellerim.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personeltatilbilgileri.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.tedarikcilerim.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.urunstokdurumlari.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.urunler.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personeltatilgunleri.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.tedarikciler.resources
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personellerilistele.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\bin\Debug\marketpanelim.exe.config
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\bin\Debug\marketpanelim.exe
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\bin\Debug\marketpanelim.pdb
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csprojAssemblyReference.cache
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.adresler.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Form1.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Form2.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.indirimtanimla.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personellerilistele.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personellerim.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personeltatilbilgileri.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personeltatilgunleri.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Properties.Resources.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.tedarikciler.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.tedarikcilerim.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.urunler.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.urunstokdurumlari.resources
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csproj.GenerateResource.cache
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csproj.CoreCompileInputs.cache
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.exe
+C:\Users\omerk\Desktop\marketpanelim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.pdb
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\bin\Debug\marketpanelim.exe.config
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\bin\Debug\marketpanelim.exe
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\bin\Debug\marketpanelim.pdb
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csprojAssemblyReference.cache
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.adresler.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Form1.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Form2.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.indirimtanimla.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personellerilistele.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personellerim.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personeltatilbilgileri.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personeltatilgunleri.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Properties.Resources.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.tedarikciler.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.tedarikcilerim.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.urunler.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.urunstokdurumlari.resources
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csproj.GenerateResource.cache
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csproj.CoreCompileInputs.cache
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.exe
+C:\Users\omerk\Desktop\deniyeceğim\marketpanelim\marketpanelim\obj\Debug\marketpanelim.pdb
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\bin\Debug\marketpanelim.exe.config
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\bin\Debug\marketpanelim.exe
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\bin\Debug\marketpanelim.pdb
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.adresler.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Form1.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Form2.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.indirimtanimla.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personellerilistele.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personellerim.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personeltatilbilgileri.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.personeltatilgunleri.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.Properties.Resources.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.tedarikciler.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.tedarikcilerim.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.urunler.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.urunstokdurumlari.resources
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.exe
+C:\Users\user\Desktop\Yeni klasör\marketpanelim\marketpanelim\obj\Debug\marketpanelim.pdb
+C:\Users\user\Desktop\marketpanelim\marketpanelim\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\marketpanelim\marketpanelim\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\marketpanelim\marketpanelim\obj\Debug\marketpanelim.csproj.CopyComplete
+C:\Users\user\Desktop\marketpanelim\marketpanelim\bin\Debug\Whitebox.dll
